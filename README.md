@@ -10,5 +10,5 @@ Para recriar este projeto, utilizou-se HTML, CSS e JavaScript. Além disso, fora
 
 O produto final aparece da seguinte maneira na tela:
 
-![game-dino](/home/morganaccg/Documentos/projetos/dino-game/img/game-dino.png)
+![game-dino](https://github.com/morganagomes/DIO-DinoGame/blob/master/img/game-dino.png?raw=true)
 
